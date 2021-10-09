@@ -1,0 +1,50 @@
+{
+  "hitmarker_cod": {
+    "category": "ambient",
+    "sounds": [ "jewtricks:cod" ]
+  },
+  "hitmarker_warning": {
+    "category": "ambient",
+    "sounds": [ "jewtricks:warning" ]
+  },
+  "hitmarker_quake": {
+    "category": "ambient",
+    "sounds": [ "jewtricks:quake" ]
+  },
+  "critsound_tf2": {
+    "category": "ambient",
+    "sounds": [ "jewtricks:tf2crit" ]
+  },
+  "pmsound_oldsteam": {
+    "category": "ambient",
+    "sounds": [ "jewtricks:oldsteam" ]
+  },
+  "killstreak_dominating": {
+    "category": "ambient",
+    "sounds": [ "jewtricks:dominating" ]
+  },
+  "killstreak_doublekill": {
+    "category": "ambient",
+    "sounds": [ "jewtricks:doublekill" ]
+  },
+  "killstreak_killingspree": {
+    "category": "ambient",
+    "sounds": [ "jewtricks:killingspree" ]
+  },
+  "killstreak_megakill": {
+    "category": "ambient",
+    "sounds": [ "jewtricks:megakill" ]
+  },
+  "killstreak_monsterkill": {
+    "category": "ambient",
+    "sounds": [ "jewtricks:monsterkill" ]
+  },
+  "killstreak_unstoppable": {
+    "category": "ambient",
+    "sounds": [ "jewtricks:unstoppable" ]
+  },
+  "killstreak_wickedsick": {
+    "category": "ambient",
+    "sounds": [ "jewtricks:wickedsick" ]
+  }
+}

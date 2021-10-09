@@ -1,0 +1,22 @@
+{
+  "required": true,
+  "compatibilityLevel": "JAVA_8",
+  "package": "fuck.you.jewtricks.mixins",
+  "refmap": "mixins.jewtricks.refmap.json",
+  "client": [
+    "MixinWorld",
+    "MixinNetHandlerPlayClient",
+    "MixinNetworkManager",
+    "MixinPlayerList",
+    "MixinGuiDisconnected",
+    "MixinRecipeToast",
+    "MixinEntityPlayerSP",
+    "MixinEntityPlayer",
+    "MixinEntityPlayerMP",
+    "MixinGuiToast",
+    "MixinItemRenderer",
+    "MixinWorldClient",
+    "MixinKeyBinding",
+    "MixinMinecraft"
+  ]
+}
