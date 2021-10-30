@@ -1,2 +1,6 @@
 # jewtricks
-ебать кисман и фенди крякеры нахуй сосать
+jewtricks src
+
+kisman.cc+ b0.1.5 own you and all
+
+\_kisman_ and fendy own everyone
